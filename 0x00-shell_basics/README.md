@@ -1,1 +1,1 @@
-second readme
+pwd for print current working directory
